@@ -2,19 +2,15 @@
 
 # AND101 Project 4 - CodeMath
 
-Submitted by: **Your Name Here**
+Submitted by: **Nargiz**
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Summary
 
-**Name of your app** is an android app that **fill in this description**
-
-If I had to describe this project in three (3) emojis, they would be: **emojis here**
+**DeductCalc** is an android app that **calculates deduction from your gross pay**
 
 ## Application Features
-
-<!-- (This is a comment) Please be sure to change the [ ] to [x] for any features you completed.  If a feature is not checked [x], you might miss the points for that item! -->
 
 The following REQUIRED features are completed:
 
