@@ -29,6 +29,8 @@ Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='https://drive.google.com/uc?id=1f002OOTzAEDzlpItTMawjVZoOQi8rUB5' title='Video Demo' width='' alt='Video Demo' />
 
+Link to the DEMO VIDEO - https://drive.google.com/file/d/1KZFJAUo-ZQ3JVHX132FqDInvWg9CdJPI/view?usp=sharing
+
 GIF created with **your chosen GIF tool**
 
 <!-- Recommended tools:
